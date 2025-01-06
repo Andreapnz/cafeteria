@@ -1,4 +1,5 @@
 # Cafeteria - Café no Bule
+![image](https://github.com/user-attachments/assets/1d576476-43c3-4f9a-b3fe-fb0c1e6e1ed7)
 
 ## Descrição
 Este repositório contém o projeto do site da cafeteria fictícia **Café no Bule**, desenvolvido utilizando **HTML** e **CSS**. O objetivo é criar uma experiência visual acolhedora e funcional, destacando cafés de qualidade e refletindo os valores e a essência da marca.
